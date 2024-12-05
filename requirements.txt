@@ -1,0 +1,6 @@
+selenium
+pyautogui
+beautifulsoup4
+pymongo
+dnspython
+requests
